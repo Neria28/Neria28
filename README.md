@@ -1,5 +1,5 @@
 Hi!🙋🏻‍♂️<br/>
-I am Neria Mordechay Lister , a Full-Stack Web Developer. a Oud and Kamanche player (google it, it worth it!).<br/>
+I am Neria Mordechay Lister , a Full-Stack Web Developer.<br/>
 Full of Curiosity, Creativty and Passion for everything related to web developent and programing.<br/>
 There is nothing like the feeling of succeeding in a challenge!<br/>
 So i'm READY! 💪🏻
