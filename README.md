@@ -1,6 +1,6 @@
 Hi!🙋🏻‍♂️<br/>
 I am Neria Mordechay Lister , a Full-Stack Web Developer.<br/>
-Full of Curiosity, Creativty and Passion for everything related to web developent and programing.<br/>
+Full of Curiosity, Creativty and Passion for everything related to web development and programing.<br/>
 There is nothing like the feeling of succeeding in a challenge!<br/>
 So i'm READY! 💪🏻
 
