@@ -55,8 +55,6 @@ style="max-width:100%"><br/>
 </ul>
 
   
-  
-  https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
 
   
   
