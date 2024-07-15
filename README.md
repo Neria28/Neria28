@@ -59,7 +59,6 @@ style="max-width:100%"><br/>
   
   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neria28&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neria28&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Neria28.visitor-badge)
