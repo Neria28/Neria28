@@ -8,11 +8,11 @@ So i'm READY! 💪🏻
 <p>
 
 <a href="https://www.linkedin.com/in/neriamlister/" rel="nofollow">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/neriamlister/"/
+<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" href="https://www.linkedin.com/in/neriamlister/"/
 style="max-width:100%">
 
 <a href="mailto:nerialister@gmail.com" rel="nofollow">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="nerialister@gmail.com"/
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" href="nerialister@gmail.com"/
 style="max-width:100%">
 
 
@@ -23,35 +23,36 @@ style="max-width:100%">
   <li>
     Programming languages
   </li>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" /
 style="max-width:100%">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /
+<img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" /
 style="max-width:100%">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" /
 style="max-width:100%">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" /
      style="max-width:100%"></br>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" style="max-width:100%">
+<img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" style="max-width:100%">
   <li>
     Frameworks, Platforms and Libraries
   </li>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" /
 style="max-width:100%">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /
+<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" /
 style="max-width:100%">
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" style="max-width:100%">
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /
+<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff" style="max-width:100%">
+<img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" /
 style="max-width:100%"><br/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" style="max-width:100%">  
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="max-width:100%">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=teal" style="max-width:100%">
+<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" style="max-width:100%">  
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" style="max-width:100%">
+<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" style="max-width:100%">
   
 
  <li>
     Databases
   </li>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="max-width:100%">
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" style="max-width:100%">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" style="max-width:100%">
+<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" style="max-width:100%">
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" style="max-width:100%">
 
 
 <li>
