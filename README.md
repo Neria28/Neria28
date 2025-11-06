@@ -18,8 +18,8 @@ style="max-width:100%">
 
 
 ## Technologies I Use 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,express,react,nextjs)](https://skillicons.dev)<br/>
-[![My Skills](https://skillicons.dev/icons?i=redux,mongodb,mysql,rabbitmq,kafka,bash,aws,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,express,react,nextjs,materialui)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=redux,redis,mongodb,mysql,rabbitmq,kafka,bash,aws,gcp)](https://skillicons.dev)
 
 
 
